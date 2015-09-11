@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# ====
+# Own
+# ====
+
+*.psess
+Mandelbrot/bin
+Mandelbrot/obj
+.vs
+*.suo
