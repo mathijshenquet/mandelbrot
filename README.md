@@ -7,6 +7,8 @@ A simple Mandelbrot set and Julia set plotter written in C#. Features:
 4. [Smooth coloring](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set#Continuous_(smooth)_coloring)
 
 ## Examples
-![](/examples/mandelbrot-example.jpg)
+![Showing the orbit under cursor](/examples/show-orbit.gif)
 ---
-![](/examples/show-orbit.gif)
+![Mandelbrot example](/examples/mandelbrot-example.jpg)
+---
+![Julia close-up](/examples/pick-julia.jpg)
